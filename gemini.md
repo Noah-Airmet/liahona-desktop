@@ -1,0 +1,1 @@
+Before doing anything, read and strictly adhere to the guidelines in agent-instructions.md.
